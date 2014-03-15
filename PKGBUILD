@@ -8,7 +8,7 @@ arch=('any')
 url="http://github.com/AshleyTheCatgirl/kailauncher"
 license=('custom:WTFPL')
 depends=('bash' 'coreutils' 'sed' 'grep')
-install=
+optdepends=('i3-wm: Automatic keyboard shortcut setting.')
 changelog=ChangeLog
 source=(kailauncher
         LICENSE)
