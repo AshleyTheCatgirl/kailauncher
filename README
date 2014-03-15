@@ -1,0 +1,8 @@
+A simple dmenu-based application launcher.
+
+Dependencies:
+- bash
+- cat
+- sed
+- grep
+- readlink
